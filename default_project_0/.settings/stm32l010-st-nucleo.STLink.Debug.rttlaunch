@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.rtthread.studio.debug.gdbjtag.stlink.launchConfigurationType">
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${rtt_install_path}\repo\Extract\Chip_Support_Packages\RealThread\STM32F0\0.1.9\debug\svd\STM32F0x0.svd"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${rtt_install_path}\repo\Extract\Chip_Support_Packages\RealThread\STM32L0\0.2.1\debug\svd\STM32L0x0.svd"/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.connectMode" value="NORMAL"/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.debugInterface" value="SWD"/>
 <intAttribute key="org.eclipse.cdt.debug.gdbjtag.core.delay" value="3"/>
@@ -50,7 +50,7 @@
 <booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="true"/>
 <stringAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.adapterName" value="ST-LINK"/>
 <booleanAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.doContinue" value="true"/>
-<stringAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.gdbServerDeviceName" value="STM32F030C6"/>
+<stringAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.gdbServerDeviceName" value="STM32L010RBTx"/>
 <stringAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.gdbServerExecutable" value="${rtt_install_path}/repo/Extract/Debugger_Support_Packages/STMicroelectronics/ST-LINK_Debugger/1.4.0/ST-LINK_gdbserver.exe"/>
 <stringAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.stlinkGdbServer" value="${rtt_install_path}/repo/Extract/Debugger_Support_Packages/STMicroelectronics/ST-LINK_Debugger/1.4.0/tools/bin/STM32_Programmer_CLI.exe"/>
 <booleanAttribute key="org.rtthread.studio.debug.gdbjtag.stlink.useRemoteTarget" value="true"/>
