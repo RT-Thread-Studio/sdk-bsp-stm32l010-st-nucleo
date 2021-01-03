@@ -22,7 +22,7 @@
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.otherInitCommands" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.otherRunCommands" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.secondResetType" value="halt"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${rtt_install_path}repo\Extract\Chip_Support_Packages\RealThread\STM32F0\0.1.9\debug\svd\STM32F0x0.svd"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${rtt_install_path}repo\Extract\Chip_Support_Packages\RealThread\STM32L0\0.2.1\debug\svd\STM32L0x0.svd"/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value=""/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageOffset" value=""/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.jtagDevice" value="GNU MCU PyOCD"/>
